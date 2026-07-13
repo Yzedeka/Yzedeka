@@ -28,4 +28,4 @@ Founder & Lead Developer [@DekaStudios](https://github.com/DekaStudios)
 
 - 🍕 Fav Food: Pizza
 
-- Email: mailto:hi@yzedeka.org
+- Email: [Hi@yzedeka.org](mailto:hi@yzedeka.org)
