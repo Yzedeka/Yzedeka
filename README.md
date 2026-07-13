@@ -18,3 +18,11 @@ Founder & Lead Developer [@DekaStudios](https://github.com/DekaStudios)
 ## 📚 Beginner/Actively Learning
 
 [![Learning](https://skillicons.dev/icons?i=cpp,c,github)](https://skillicons.dev)
+
+---
+
+## A Little bit About Me
+### 🇦🇺 PROUD AUSTRALIAN
+<img src="https://cachyos.org/favicon.svg" width="50" alt="CachyOS"> ###OS: CachyOS
+<img src="https://www.minecraft.net/favicon.ico" width="50" alt="Minecraft">### #1 Game: Minecraft
+🍕 ###Fav Food: Pizza
