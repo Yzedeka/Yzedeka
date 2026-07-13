@@ -27,3 +27,5 @@ Founder & Lead Developer [@DekaStudios](https://github.com/DekaStudios)
 - <img src="https://cachyos.org/favicon.svg" width="20" alt="CachyOS"> Current OS: CachyOS
 
 - 🍕 Fav Food: Pizza
+
+- Email: mailto:hi@yzedeka.org
