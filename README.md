@@ -23,8 +23,8 @@ Founder & Lead Developer [@DekaStudios](https://github.com/DekaStudios)
 
 ## A Little bit About Me
 ### 🇦🇺 PROUD AUSTRALIAN
-- <img src="https://cachyos.org/favicon.svg" width="20" alt="CachyOS"> OS: CachyOS
+- <img src="https://cachyos.org/favicon.svg" width="30" alt="CachyOS"> OS: CachyOS
 
-- <img src="[https://www.minecraft.net/favicon.ico](https://www.minecraft.net/etc.clientlibs/minecraftnet/clientlibs/clientlib-site/resources/favicon.ico)" width="20" alt="Minecraft"> Fav Game: Minecraft
+- <img src="https://www.minecraft.net/etc.clientlibs/minecraftnet/clientlibs/clientlib-site/resources/favicon.ico" width="30" alt="Minecraft"> Fav Game: Minecraft
 
 - 🍕 Fav Food: Pizza
