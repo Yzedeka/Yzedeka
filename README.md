@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Yzedeka
+Leader of @DekaStudios
 
 ---
 
@@ -8,12 +9,12 @@
 
 ---
 
-## 💻 I Kinda Understand
+## 💻 Familiar With
 
-[![My Skills](https://skillicons.dev/icons?i=java,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,linux,git)](https://skillicons.dev)
 
 ---
 
 ## 📚 Beginner/Actively Learning
 
-[![Learning](https://skillicons.dev/icons?i=cpp,c)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=cpp,c,github)](https://skillicons.dev)
