@@ -22,7 +22,8 @@ Founder & Lead Developer [@DekaStudios](https://github.com/DekaStudios)
 ---
 
 ## A Little bit About Me
-### 🇦🇺 PROUD AUSTRALIAN
-- <img src="https://cachyos.org/favicon.svg" width="30" alt="CachyOS"> Current OS: CachyOS
+- ### 🇦🇺 PROUD AUSTRALIAN
+
+- <img src="https://cachyos.org/favicon.svg" width="16" alt="CachyOS"> Current OS: CachyOS
 
 - 🍕 Fav Food: Pizza
