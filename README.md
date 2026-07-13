@@ -8,7 +8,7 @@
 
 ---
 
-## 💻 Stuff Kinda Understand
+## 💻 I Kinda Understand
 
 [![My Skills](https://skillicons.dev/icons?i=java,linux)](https://skillicons.dev)
 
