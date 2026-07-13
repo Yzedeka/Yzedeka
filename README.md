@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Yzedeka
-Founder & Lead Developer @[ DekaStudios ](https://github.com/DekaStudios)
+Founder & Lead Developer [@DekaStudios](https://github.com/DekaStudios)
 
 ---
 
