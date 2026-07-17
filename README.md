@@ -24,7 +24,7 @@ Founder & Lead Developer [@DekaStudios](https://github.com/DekaStudios)
 ## A Little bit About Me
 - ### 🇦🇺 PROUD AUSTRALIAN
 
-- <img src="https://cachyos.org/favicon.svg" width="20" alt="CachyOS"> Current OS: CachyOS
+- <img src="https://wiki.sugarlabs.org/images/f/f9/Arch-linux-logo.png?20191224105730" width="20" alt="Arch"> Current OS: Arch, BTW
 
 - 🍕 Fav Food: Pizza
 
